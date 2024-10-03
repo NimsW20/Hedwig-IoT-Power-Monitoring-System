@@ -1,1 +1,0 @@
-# Hedwig-IoT-Power-Monitoring-System
